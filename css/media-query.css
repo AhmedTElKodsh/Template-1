@@ -1,0 +1,27 @@
+@media (max-width: 768) {
+  .container {
+    width: 750px;
+  }
+  .special-heading {
+    font-size: 60px;
+  }
+  .special-heading + p {
+    margin-top: -20px;
+  }
+}
+
+@media (max-width: 992) {
+  .conatiner {
+    width: 970px;
+  }
+}
+
+@media (max-width: 1200) {
+  .conatiner {
+    width: 1170px;
+  }
+
+  .services .column .image {
+    display: none;
+  }
+}
