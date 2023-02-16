@@ -2,6 +2,10 @@
   .container {
     width: 750px;
   }
+
+  .landing {
+    width: 100%;
+  }
   .special-heading {
     font-size: 60px;
   }
